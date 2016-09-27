@@ -1,4 +1,4 @@
 # SnackScan
 Scans your snack!
 
-![alt tag](https://raw.githubusercontent.com/an1519/images/IMG_3088.png)
+![alt tag](https://github.com/an1519/SnackScan/blob/master/images/IMG_3088.png)
